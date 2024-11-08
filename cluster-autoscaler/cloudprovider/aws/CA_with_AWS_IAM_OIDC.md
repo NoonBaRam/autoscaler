@@ -1,7 +1,7 @@
 #### The following is an example to make use of the AWS IAM OIDC with the Cluster Autoscaler in an EKS cluster. 
 
 
-#### Prerequisites 
+#### Prerequisites .
 
   - An Active EKS cluster (1.14 preferred since it is the latest) against which the user is able to run kubectl commands. 
   - Cluster must consist of at least one worker node ASG. 
